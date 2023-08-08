@@ -27,4 +27,4 @@ In this project, by using dataset attributes such as age, gender, blood pressure
 
 ## Conclusion 
 
-## Recommendation
+## Recommendations
