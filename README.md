@@ -27,4 +27,14 @@ In this project, by using dataset attributes such as age, gender, blood pressure
 
 ## Conclusion 
 
-## Recommendation
+The most important features for predicting heart disease were age, systolic blood pressure, prevalent hypertension, and diastolic blood pressure
+
+In combating coronary heart disease we can utilize the power of data-driven decision-making to make informed decisions.
+
+
+## Recommendations
+Promote Heart-Healthy Behaviors: Public health campaigns promoting heart-healthy lifestyles, including regular exercise, balanced diets, and smoking cessation, can play a vital role in reducing heart disease risk factors.
+
+Collaboration with Medical Professionals: The integration of our predictive models into healthcare systems can assist doctors in making informed decisions and providing personalized treatment plans to patients. Collaboration between data scientists and medical experts is essential for accurate interpretation and implementation.
+
+Continual Improvement: Machine learning models can be further refined and fine-tuned over time. Regular updates, model evaluations, and feedback loops with medical professionals ensure that the predictions remain accurate and relevant.
