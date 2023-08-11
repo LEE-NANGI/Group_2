@@ -31,6 +31,15 @@ The most important features for predicting heart disease were age, systolic bloo
 
 In combating coronary heart disease we can utilize the power of data-driven decision-making to make informed decisions.
 
+Healthcare workers should  identify and prioritize high-risk patients for further diagnostic evaluation.
+
+40 - 59 age group were affected most by the disease while below 30 were affected the least.
+
+People who were overweight had a higher chance of having a heart disease as compared to those who had normal weight, underweight and obese.
+
+The best model in our study is the random forest and could have a 86% accuracy on the test set.
+
+XGB boost model proved to be obtaining the best accuracy score upon further tuning by showing a balance in the training and validation accuracy.
 
 ## Recommendations
 Promote Heart-Healthy Behaviors: Public health campaigns promoting heart-healthy lifestyles, including regular exercise, balanced diets, and smoking cessation, can play a vital role in reducing heart disease risk factors.
